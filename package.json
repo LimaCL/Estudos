@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Teste para curso coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimaCL/Estudos.git"
+  },
+  "author": "Leandro Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimaCL/Estudos/issues"
+  },
+  "homepage": "https://github.com/LimaCL/Estudos#readme"
+}
